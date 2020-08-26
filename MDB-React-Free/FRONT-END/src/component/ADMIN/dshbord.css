@@ -1,0 +1,48 @@
+.tb{
+margin-left: auto;
+margin-right: auto;
+
+width: 800px;
+}
+
+
+.tbb{
+margin-bottom: 90px;
+    
+}
+
+
+.attribut{
+    color: #b48c2d;
+    background-color: black;
+    
+   
+}
+
+.del-b{
+    color:#b48c2d;
+    border-radius: 5px;
+    border : 1px;
+}
+
+.select{
+    margin: 60px;
+    margin-left:80%;
+    font-family: 'Fahkwang', sans-serif;
+    
+}
+
+.table-pub{
+    
+    padding: 100px;
+}
+
+.tt{
+    background-color: black;
+    color: #b48c2d;
+}
+
+
+
+
+

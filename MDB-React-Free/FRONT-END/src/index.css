@@ -1,0 +1,365 @@
+/*navbar*/
+.logo{
+    border-radius: 50%;
+
+}
+
+.navbar{
+    background-color: black;
+    box-shadow: 10px 5px 5px #b48c2d;
+  
+}
+
+.item {
+    color: #b48c2d;
+    font-family: 'Playball', cursive; 
+}
+
+
+.btn{
+    background-color: #b48c2d;
+    font-weight: bold;
+
+}
+.nav-item{
+    display: flex;
+}
+
+
+/*fin-navbar*/
+
+
+/*card*/
+
+.cards{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 60px;
+    
+        
+}
+
+.button-reserve{
+font-weight: bold;
+ color: #b48c2d;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ background-color: black;
+width: 90px;
+
+}
+
+.img{
+
+width: 300px;
+margin-top: 9px;
+
+}
+
+
+.image{
+    margin-top: 9px;
+    width: 300px;
+
+}
+
+ /* .body-card:hover{
+    transform:scale(1.2,1.2);
+   
+}  */
+
+
+.delete-button{
+   font-weight: bolder;
+color:black;
+width: 24px;
+height: 25px;
+
+
+
+}
+
+.button-top{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+
+.body-card{
+
+text-align: center;
+margin-top: 20px;
+
+height: 90%;
+  
+    }
+
+.image-cardacceuil{
+width: 350px;
+height: 150px;
+margin-top: 9px;
+
+
+}
+
+.imgcard-vendeur{
+
+
+    width: 350px;
+    height: 150px;
+    margin-top: 9px;
+
+}
+
+
+
+
+.style{
+
+    text-align: center;
+    margin-top: 20px;
+    
+    height: 90%;
+}
+
+.title{
+    color:black ;
+    font-family: 'Playball', cursive; 
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+.prix{
+
+    color: #b48c2d;
+    font-family: 'Playball', cursive; 
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+
+
+.btn-ajouter{
+    background-color: #b48c2d;
+    padding: 10px;
+    margin-left: 800px;
+    margin-top:70px;
+}
+
+
+.btn-edit{
+    margin-left:25px;
+}
+
+
+.button{
+ 
+display: flex;
+justify-content: space-around;
+padding: 15px;
+ margin-bottom: 20px;
+}
+/*fin-card*/
+
+
+
+
+
+
+/*footer*/
+.footer{
+
+    background-color:black;
+    
+    }
+    .copy{
+        color:#b48c2d ;
+    }
+    
+    /*fin-foter*/
+
+
+
+    .detail-modal{
+        
+        width:  300%;
+    }
+
+    /*card-detail*/
+
+.comp-detail{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+}
+
+
+.image-detail{
+padding-right: 70px;
+       width: 300px;
+       height: 400px;
+}
+
+
+
+.right:hover{
+
+    transform:scale(1.2,1.2);
+}
+
+
+.right{
+      
+    width: 500px;
+}
+
+
+
+.styel-texts{
+    
+ 
+    margin-left: 20px;
+    text-align: start;
+}
+ 
+ .font{
+   
+ font-family: 'Playball', cursive; 
+ text-align: start;
+ margin-left: 70px;
+ color: black;
+ font-weight: bold;
+ }
+
+.fonts{
+
+
+
+    font-family: 'Playball', cursive; 
+    text-align: start;
+    margin-left: 70px;
+    color: #b48c2d;
+    font-weight: bold;
+    text-decoration: underline;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.title-detail{
+    font-family: 'Playball', cursive; 
+    color:#b48c2d ;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.title-header{
+    font-family: 'Playball', cursive; 
+    color:#b48c2d ;
+
+}
+
+
+
+ 
+ .style{
+     text-align: start;
+    color: black;
+ }
+ 
+ .attribu{
+     text-align: start;
+     color: black;
+ }
+
+    /*fin card-detail*/
+
+
+    /*ajouter-card*/
+
+
+.titre-addcarte{
+    color: #b48c2d;
+    font-family: 'Playball', cursive;
+ 
+}
+
+.btn-telecharger{
+    color: #b48c2d;
+    font-family: 'Playball', cursive;
+}
+
+.body-add{
+   
+width: 400px;
+
+}
+
+.body-edit{
+
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+.btn-add{
+    color: #b48c2d;
+    font-family: 'Playball', cursive;
+}
+
+.btn-ajouter{
+    font-family: 'Playball', cursive;
+    font-weight: bold;
+}
+
+
+    /*fin ajouter-card*/
+
+
+
+.selects{
+   width: 300px; 
+   margin-left: 800px;
+ 
+}
+
+
+
+
+
+  .btn-select{
+
+   width:300px;
+   margin-right:800px;
+   
+  }
+
+  .button-select{
+display: flex;
+justify-content: space-between;
+margin-top: 50px;
+padding: 60px;
+
+
+
+  }
+
+
+  

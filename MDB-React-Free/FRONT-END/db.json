@@ -1,0 +1,57 @@
+{
+  "Produits": [
+    {
+      "id": 2,
+      "title": "telephone",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/815%2B1vWgLrL._AC_SL1500_.jpg",
+      "price": "20dt",
+      "contact": "54689825",
+      "commentaire": []
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "title": "telephone 9dim",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/815%2B1vWgLrL._AC_SL1500_.jpg",
+      "price": "25dt",
+      "contact": "54689825"
+    },
+    {
+      "id": 2,
+      "title": "telephone",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/815%2B1vWgLrL._AC_SL1500_.jpg",
+      "price": "500dt"
+    },
+    {
+      "title": "dvsdv",
+      "image": "dddfdfsd",
+      "price": "sdvsdv",
+      "contact": "54689825",
+      "id": 3
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "nom": "chaima",
+      "prenom": "ammar",
+      "role": "admin",
+      "action": ""
+    },
+    {
+      "id": 2,
+      "nom": "doniez",
+      "prenom": "snoussi",
+      "role": "vendeur",
+      "action": ""
+    },
+    {
+      "id": 3,
+      "nom": "loujayne",
+      "prenom": "snoussi",
+      "role": "client",
+      "action": ""
+    }
+  ]
+}
